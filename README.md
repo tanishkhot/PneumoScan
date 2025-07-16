@@ -19,8 +19,9 @@ PneumoScan is an interactive web application built to assist in the detection of
 
 *(https://pneumoscan-tk.streamlit.app)*
 
-![PneumoScan Screenshot](https://i.imgur.com/your-screenshot-url.png)
-*(Placeholder: Replace with a real screenshot of your app)*
+![PneumoScan Screenshot](screenshots/img-1.png)
+![PneumoScan Screenshot 2](screenshots/img-2.png)
+![PneumoScan Screenshot 3](screenshots/img-3.png)
 
 ---
 
