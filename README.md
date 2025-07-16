@@ -15,14 +15,14 @@ PneumoScan is an interactive web application built to assist in the detection of
 
 ---
 
-<!-- ### 🚀 Live Demo & Screenshots
+### Live Demo & Screenshots
 
-*(Placeholder: You can add a link to your deployed Streamlit Community Cloud app here later)*
+*(https://pneumoscan-tk.streamlit.app)*
 
 ![PneumoScan Screenshot](https://i.imgur.com/your-screenshot-url.png)
 *(Placeholder: Replace with a real screenshot of your app)*
 
---- -->
+---
 
 ### Tech Stack
 
